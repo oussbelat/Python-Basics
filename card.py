@@ -1,0 +1,5 @@
+print("************user Crad ***********")
+print("*Name:Guido van Rossum         *")
+print("*Title:Computer programmer      *")
+print("*Date of birth:31/10/1956       *")
+print("*********************************")
